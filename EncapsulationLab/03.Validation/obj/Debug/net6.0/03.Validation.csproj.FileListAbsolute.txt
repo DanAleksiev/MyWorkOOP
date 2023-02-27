@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\bin\Debug\net6.0\03.Validation.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\bin\Debug\net6.0\03.Validation.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\bin\Debug\net6.0\03.Validation.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\bin\Debug\net6.0\03.Validation.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\bin\Debug\net6.0\03.Validation.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\03.Validation.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\03.Validation.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\03.Validation.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\refint\03.Validation.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\03.Validation.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\03.Validation.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\03.Validation\obj\Debug\net6.0\ref\03.Validation.dll

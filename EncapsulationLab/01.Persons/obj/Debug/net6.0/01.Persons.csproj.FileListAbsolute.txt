@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\bin\Debug\net6.0\01.Persons.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\bin\Debug\net6.0\01.Persons.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\bin\Debug\net6.0\01.Persons.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\bin\Debug\net6.0\01.Persons.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\bin\Debug\net6.0\01.Persons.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\01.Persons.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\refint\01.Persons.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\01.Persons.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\01.Persons.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\01.Persons\obj\Debug\net6.0\ref\01.Persons.dll

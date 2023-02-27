@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\04.Team.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\04.Team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\04.Team.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\04.Team.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\04.Team.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\bin\Debug\net6.0\04.Team.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\bin\Debug\net6.0\04.Team.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\bin\Debug\net6.0\04.Team.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\bin\Debug\net6.0\04.Team.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\bin\Debug\net6.0\04.Team.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\04.Team.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\refint\04.Team.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\04.Team.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\04.Team.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationLab\04.Team\obj\Debug\net6.0\ref\04.Team.dll
