@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\net6.0\Shapes.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\net6.0\Shapes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\net6.0\Shapes.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\Shapes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\refint\Shapes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\Shapes.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\net6.0\ref\Shapes.dll

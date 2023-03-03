@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\refint\PizzaCalories.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll

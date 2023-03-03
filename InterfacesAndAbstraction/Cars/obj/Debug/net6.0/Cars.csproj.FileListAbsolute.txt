@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\ref\Cars.dll

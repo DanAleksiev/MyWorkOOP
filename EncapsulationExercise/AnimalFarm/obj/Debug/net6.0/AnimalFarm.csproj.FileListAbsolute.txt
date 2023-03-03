@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\EncapsulationExercise\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll
