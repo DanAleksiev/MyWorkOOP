@@ -8,7 +8,7 @@
             try
                 {
                 double square = Math.Sqrt(number);
-                if (square.)
+                if (double.IsNaN(square))
                     {
                     throw new ArgumentException("Invalid number.");
                     }

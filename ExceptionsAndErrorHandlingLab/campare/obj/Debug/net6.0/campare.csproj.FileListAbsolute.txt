@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\bin\Debug\net6.0\campare.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\bin\Debug\net6.0\campare.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\bin\Debug\net6.0\campare.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\bin\Debug\net6.0\campare.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\bin\Debug\net6.0\campare.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\campare.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\campare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\campare.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\campare.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\campare.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\campare.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\refint\campare.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\campare.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\campare.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\campare\obj\Debug\net6.0\ref\campare.dll
