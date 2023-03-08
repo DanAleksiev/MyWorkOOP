@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\bin\Debug\net6.0\Operations.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\bin\Debug\net6.0\Operations.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\bin\Debug\net6.0\Operations.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\bin\Debug\net6.0\Operations.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\Operations.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\Operations.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\refint\Operations.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\Operations.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismLab\Operations\obj\Debug\net6.0\ref\Operations.dll
