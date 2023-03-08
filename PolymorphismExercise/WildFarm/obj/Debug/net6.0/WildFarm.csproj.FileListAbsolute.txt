@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\WildFarm.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\bin\Debug\net6.0\WildFarm.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\bin\Debug\net6.0\WildFarm.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\bin\Debug\net6.0\WildFarm.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\bin\Debug\net6.0\WildFarm.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\WildFarm.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\refint\WildFarm.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\WildFarm.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\WildFarm\obj\Debug\net6.0\ref\WildFarm.dll

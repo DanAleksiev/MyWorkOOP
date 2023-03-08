@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\bin\Debug\net6.0\Raiding.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Raiding\obj\Debug\net6.0\ref\Raiding.dll

@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\PolymorphismExercise\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
