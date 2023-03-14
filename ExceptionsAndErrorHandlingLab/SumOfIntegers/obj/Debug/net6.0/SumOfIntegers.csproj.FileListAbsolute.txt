@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\refint\SumOfIntegers.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\SumOfIntegers\obj\Debug\net6.0\ref\SumOfIntegers.dll

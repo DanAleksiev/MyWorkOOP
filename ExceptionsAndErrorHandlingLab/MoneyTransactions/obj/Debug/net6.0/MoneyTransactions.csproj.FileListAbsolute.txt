@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\refint\MoneyTransactions.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\MoneyTransactions\obj\Debug\net6.0\ref\MoneyTransactions.dll

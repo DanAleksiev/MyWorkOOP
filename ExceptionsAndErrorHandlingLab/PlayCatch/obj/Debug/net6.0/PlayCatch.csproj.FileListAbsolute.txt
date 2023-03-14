@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\net6.0\PlayCatch.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\net6.0\PlayCatch.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\net6.0\PlayCatch.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\net6.0\PlayCatch.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\net6.0\PlayCatch.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\PlayCatch.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\refint\PlayCatch.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\PlayCatch.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\PlayCatch.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\net6.0\ref\PlayCatch.dll
