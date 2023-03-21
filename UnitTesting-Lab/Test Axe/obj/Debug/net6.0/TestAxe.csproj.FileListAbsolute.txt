@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\bin\Debug\net6.0\TestAxe.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\bin\Debug\net6.0\TestAxe.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\bin\Debug\net6.0\TestAxe.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\bin\Debug\net6.0\TestAxe.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\bin\Debug\net6.0\TestAxe.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\TestAxe.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\TestAxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\TestAxe.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\TestAxe.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\TestAxe.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\TestAxe.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\refint\TestAxe.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\TestAxe.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\TestAxe.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\UnitTesting-Lab\Test Axe\obj\Debug\net6.0\ref\TestAxe.dll

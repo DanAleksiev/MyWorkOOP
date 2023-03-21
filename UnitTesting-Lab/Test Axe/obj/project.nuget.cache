@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmyGdCSoVDqh5L0LPSRArq4GfmXeS81xTYrOSCqcFhsJFrUnXUu5BUwYNCePdEoZ2Bym6R5LroFTKlJPaoTf4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\OOP\\MyWorkOOP\\UnitTesting-Lab\\Test Axe\\Skeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

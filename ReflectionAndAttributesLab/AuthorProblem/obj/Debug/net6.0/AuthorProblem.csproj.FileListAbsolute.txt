@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll

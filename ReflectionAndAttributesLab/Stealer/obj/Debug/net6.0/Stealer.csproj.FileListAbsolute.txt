@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\net6.0\Stealer.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\net6.0\Stealer.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\net6.0\Stealer.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\net6.0\Stealer.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\Stealer.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\Stealer.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\refint\Stealer.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\Stealer.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\net6.0\ref\Stealer.dll
