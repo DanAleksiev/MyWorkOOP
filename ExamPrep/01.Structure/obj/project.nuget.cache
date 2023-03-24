@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pb6Y8p4l3mChjwbqG9ev2Tm2myC5KWawsX+T2Xr/1NU27/Vz6ipJo5WaqtPUeFE2zCvuu1e3lxqCkPmGSzYqdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\OOP\\MyWorkOOP\\ExamPrep\\01.Structure\\UniversityCompetition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.13\\microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.13\\microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.13\\microsoft.extensions.configuration.usersecrets.3.1.13.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.13\\microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.13\\microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.13\\microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
