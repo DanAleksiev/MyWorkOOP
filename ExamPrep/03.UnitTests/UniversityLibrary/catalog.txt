@@ -1,0 +1,1 @@
+[{"Title":"DieHard","Author":"Azis","InventoryNumber":0,"Category":"Action","Holder":null},{"Title":"IAmNumber4","Author":"Paticus Lore","InventoryNumber":0,"Category":"Scy-Fi","Holder":null},{"Title":"Harry Potter","Author":"J.K. Rawling","InventoryNumber":0,"Category":"Fiction","Holder":null}]
