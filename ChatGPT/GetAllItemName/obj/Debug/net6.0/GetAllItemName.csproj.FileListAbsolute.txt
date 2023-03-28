@@ -1,0 +1,17 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\bin\Debug\net6.0\GetAllItemName.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\bin\Debug\net6.0\GetAllItemName.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\bin\Debug\net6.0\GetAllItemName.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\bin\Debug\net6.0\GetAllItemName.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\bin\Debug\net6.0\GetAllItemName.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.csproj.CopyComplete
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\refint\GetAllItemName.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\GetAllItemName.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\GetAllItemName\obj\Debug\net6.0\ref\GetAllItemName.dll

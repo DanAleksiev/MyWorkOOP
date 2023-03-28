@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\bin\Debug\net6.0\BookingApp.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\bin\Debug\net6.0\BookingApp.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\bin\Debug\net6.0\BookingApp.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\bin\Debug\net6.0\BookingApp.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\BookingApp.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\refint\BookingApp.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\BookingApp.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\3\01. Structure_Skeleton_6.0\obj\Debug\net6.0\ref\BookingApp.dll

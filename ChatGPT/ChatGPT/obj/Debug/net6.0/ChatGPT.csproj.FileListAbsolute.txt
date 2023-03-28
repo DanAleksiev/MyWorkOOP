@@ -1,0 +1,17 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.csproj.CopyComplete
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\refint\ChatGPT.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ChatGPT\ChatGPT\obj\Debug\net6.0\ref\ChatGPT.dll

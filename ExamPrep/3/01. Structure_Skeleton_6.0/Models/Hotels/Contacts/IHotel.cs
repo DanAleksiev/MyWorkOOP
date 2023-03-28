@@ -10,7 +10,7 @@
         int Category { get; }
         double Turnover { get; }
 
-        public IRepository<IRoom> Rooms { get; }
-        public IRepository<IBooking> Bookings { get; }
+        public IRepository<IRoom> Rooms { get; set; }
+        public IRepository<IBooking> Bookings { get; set; }
     }
 }

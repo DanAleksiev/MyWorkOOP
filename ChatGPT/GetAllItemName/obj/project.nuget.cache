@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTcc9pP+uo/4OBuuYhblQa5jeXg8xaqI4fkK8a1lbjpIy1O3BT95EmVvlA5bvnEH7Bhw4zTn6vb3q/OrcQwNAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\OOP\\MyWorkOOP\\ChatGPT\\GetAllItemName\\GetAllItemName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toksi\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
