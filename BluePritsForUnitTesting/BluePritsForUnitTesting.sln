@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BluePritsForUnitTesting", "BluePritsForUnitTesting\BluePritsForUnitTesting.csproj", "{9BFB331D-153C-4698-A496-39B7945EA250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheOtherAssignment", "TheOtherAssignment\TheOtherAssignment.csproj", "{79CB6305-B5C9-4505-887A-6586AACA9555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BFB331D-153C-4698-A496-39B7945EA250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFB331D-153C-4698-A496-39B7945EA250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFB331D-153C-4698-A496-39B7945EA250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFB331D-153C-4698-A496-39B7945EA250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CB6305-B5C9-4505-887A-6586AACA9555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CB6305-B5C9-4505-887A-6586AACA9555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CB6305-B5C9-4505-887A-6586AACA9555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CB6305-B5C9-4505-887A-6586AACA9555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DD3CE5-8853-4B07-B9C0-BFF1B7FCFAA0}
+	EndGlobalSection
+EndGlobal
