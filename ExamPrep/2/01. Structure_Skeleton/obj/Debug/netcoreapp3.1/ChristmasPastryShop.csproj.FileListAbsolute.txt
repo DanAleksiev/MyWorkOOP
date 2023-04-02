@@ -1,0 +1,14 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\2\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache

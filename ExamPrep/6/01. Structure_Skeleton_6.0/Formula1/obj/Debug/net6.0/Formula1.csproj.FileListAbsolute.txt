@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\Formula1.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\Formula1.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\bin\Debug\net6.0\Formula1.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\bin\Debug\net6.0\Formula1.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\bin\Debug\net6.0\Formula1.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\bin\Debug\net6.0\Formula1.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\bin\Debug\net6.0\Formula1.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\Formula1.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\refint\Formula1.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\Formula1.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\Formula1.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\6\01. Structure_Skeleton_6.0\Formula1\obj\Debug\net6.0\ref\Formula1.dll
