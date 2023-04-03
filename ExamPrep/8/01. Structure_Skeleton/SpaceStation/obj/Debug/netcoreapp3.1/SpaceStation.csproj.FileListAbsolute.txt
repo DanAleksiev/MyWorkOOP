@@ -1,0 +1,14 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\8\01. Structure_Skeleton\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache
