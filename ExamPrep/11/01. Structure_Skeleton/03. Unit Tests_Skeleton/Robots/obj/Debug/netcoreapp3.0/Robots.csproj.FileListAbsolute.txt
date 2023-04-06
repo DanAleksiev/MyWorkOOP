@@ -1,0 +1,14 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\11\01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

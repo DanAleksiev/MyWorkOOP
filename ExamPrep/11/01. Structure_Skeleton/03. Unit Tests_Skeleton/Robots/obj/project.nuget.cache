@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkWaOxVZt4tfNADOLzDCUwKd4PzsqT0dC4+sXn/66kvDBa6+y1kBG38aHJO0p+Ts8csp/F/K80004MaAfFA76Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\OOP\\MyWorkOOP\\ExamPrep\\11\\01. Structure_Skeleton\\03. Unit Tests_Skeleton\\Robots\\Robots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

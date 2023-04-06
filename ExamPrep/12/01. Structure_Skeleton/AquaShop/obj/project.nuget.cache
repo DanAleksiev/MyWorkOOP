@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FSnMFOp2bHFQZTixxUdCKWUcoXp1Vb/kgliEo1ZDSGeIWLXuGyJ7aGGsjvv97fr3U1u2G0AqSuZ6TnYAZ9dYAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\OOP\\MyWorkOOP\\ExamPrep\\12\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\toksi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
