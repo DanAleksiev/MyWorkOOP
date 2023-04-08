@@ -61,10 +61,5 @@ namespace AquaShop.Models.Fish
         public int Size { get;  set; }
 
         public abstract void Eat();
-
-        public override string ToString()
-            {
-            return name;
-            }
         }
     }

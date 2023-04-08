@@ -13,13 +13,16 @@ namespace AquaShop.Models.Aquariums
     public abstract class Aquarium : IAquarium
         {
         private string name;
-        private ICollection<IDecoration> decorations;
-        private ICollection<IFish> fishes;
+        private readonly List<IDecoration> decorations;
+        private readonly List<IFish> fishes;
 
         protected Aquarium(string name, int capacity)
             {
             Name = name;
             Capacity = capacity;
+
+            decorations = new List<IDecoration>();
+            fishes = new List<IFish>();
             }
 
         public string Name
@@ -69,9 +72,18 @@ namespace AquaShop.Models.Aquariums
 
             sb.AppendLine($"{name} ({GetType().Name}):");
             sb.Append($"Fish: ");
+            List<string> names = new List<string>();
+            foreach (var fish in fishes)
+                {
+                names.Add(fish.Name);
+                }
             if (fishes.Count > 0)
                 {
-                string.Join(", ", fishes.ToString());
+                sb.AppendLine(string.Join(", ", names));
+                }
+            else
+                {
+                sb.AppendLine("none");
                 }
 
             sb.AppendLine($"Decorations: {decorations.Count}");
