@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UniversityCompetition
 build_property.ProjectDir = C:\Users\toksi\OneDrive\Desktop\SoftUni c#\OOP\MyWorkOOP\ExamPrep\1\01. Structure_Skeleton_6.0\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
